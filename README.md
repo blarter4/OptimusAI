@@ -21,3 +21,4 @@ This all actually stemmed from an idea that I had, I have a certain handheld gam
 
 ### Help would be appreciated, and a Discord will come if this gets enough support!
 
+#nothing is functional at the moment, it is a W.I.P
